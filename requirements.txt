@@ -1,0 +1,6 @@
+opencv-python
+bottle
+python-dotenv
+click
+bs4
+lxml
